@@ -10,13 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FastQuiz">
         <activity
-            android:name=".MainActivity"
+            android:name=".controller.LoadingAcitivty"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".controller.EndActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".controller.QuizActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".controller.MainActivity"
+            android:exported="true">
         </activity>
     </application>
 

@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/drawable/button_bg.xml" value="0.5703125" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/drawable/gradient.xml" value="0.346875" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/layout/activity_end.xml" value="0.39855072463768115" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/layout/activity_end2.xml" value="0.3822463768115942" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/layout/activity_loading_acitivty.xml" value="0.36594202898550726" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/layout/activity_quiz.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Bastien/AndroidStudioProjects/FastQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5703125" />
       </map>
     </option>
   </component>

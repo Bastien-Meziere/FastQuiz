@@ -1,4 +1,4 @@
-# Application Mobile FastQuiz
+# Application Mobile Android FastQuiz
 
 ## Présentation :
 

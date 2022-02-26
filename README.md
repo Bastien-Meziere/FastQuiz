@@ -2,8 +2,7 @@
 
 ## Présentation :
 
-Le site est destiné aux adhérents du club ainsi qu'aux visiteurs qui seraient intéressé par le club.
-Vous pouvez y retrouver les derniers résultats des équipes, les prochains matchs, les équipes, la boutique, ect...
+FastQuiz est ma première application mobile. C'est un quiz qui propose une série de questions aléatoires sur une durée de 60 secondes. Le but étant d'avoir le plus de bonnes réponses en 60 secondes.
 
 ## Langage :
 
